@@ -2,17 +2,18 @@
 
 > _RFC 1149 enjoyer_
 
-I'm a 4th year Computer Science student at EPITA building everything from Unix shells to web browsers. Fast, clean, and (sometimes) bug-free.
+I'm a 5th year Computer Science student at EPITA building everything from Unix shells to web browsers. Fast, clean, and (sometimes) bug-free.
+
 You can contact me for any services.
 
 ---
 
 ## About Me
 
-- 4th year student @ **EPITA**
+- 5th year student @ **EPITA**
 - I'm **always** learning, I never have enough skills
 - I love learning things about **geography** !
-- I'm currently an assistant (**YAKA** / **ACU**) for younger students at my school.
+- I'm currently a teacher assistant, **ACU** (**YAKA** and **ACDC** before) for younger students at my school.
 
 ---
 
@@ -72,7 +73,8 @@ You can contact me for any services.
 
 <sub>_Clickable links_</sub>
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Thegeekeuhhhhhhh) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Thegeekeuhhhhhhh/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Thegeekeuhhhhhhh) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31604898/thegeekeuhhhhhhh)
+<!-- [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Thegeekeuhhhhhhh) -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Thegeekeuhhhhhhh/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Thegeekeuhhhhhhh) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31604898/thegeekeuhhhhhhh)
 
 ---
 
@@ -124,7 +126,7 @@ Built in JavaScript. Similar to Spotify, but, free ;)
 
 > _A web browser, better than chrome_
 
-Written in Rust for EPITA S4. Parses HTML, renders pages, and crawls Internet to store websites, and reminds you that browsers are deceptively hard.
+Written in Rust for EPITA S4. Parses HTML, renders pages, and crawls Internet to store websites. It also told me that building something worse than Google Chrome was easier than expected.
 
 ---
 
