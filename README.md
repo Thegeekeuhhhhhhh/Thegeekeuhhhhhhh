@@ -148,11 +148,11 @@ Written in Rust for EPITA S4. Parses HTML, renders pages, and crawls Internet to
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 41 mins        ████████████░░░░░░░░░░░░░   47.45 %
-JavaScript   11 hrs 26 mins        ███████▒░░░░░░░░░░░░░░░░░   29.06 %
-Other        3 hrs 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Markdown     1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-C            1 hr 30 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+TypeScript   20 hrs 26 mins        ████████████▓░░░░░░░░░░░░   50.10 %
+JavaScript   10 hrs 42 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Other        3 hrs 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Markdown     1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+C            1 hr 38 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
