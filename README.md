@@ -1,6 +1,14 @@
-# Hey, I'm Léo 👋🦖
+<p align="center">
+  <a href="https://github.com/Thegeekeuhhhhhhh">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D94E7A&fontSize=54&height=90&width=1200&text=Hey,%20I'm%20Léo%20👋🦖" alt="Hey, I'm Léo 👋🦖" />
+  </a>
+</p>
 
-> _RFC 1149 enjoyer_
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=B02060&center=true&vCenter=true&width=900&height=44&lines=I%20built%20my%20own%20music%20player%20just%20because%20Spotify%20had%20ads;I'm%20also%20a%20teaching%20assistant%20for%20other%20students%20of%20my%20school" alt="Typing headlines" />
+</p>
+
+> *RFC 1149 enjoyer*
 
 I'm a 5th year Computer Science student at EPITA building everything from Unix shells to web browsers. Fast, clean, and (sometimes) bug-free.
 
@@ -71,7 +79,7 @@ You can contact me for any services.
 
 ## 🏆 Competitive Programming
 
-<sub>_Clickable links_</sub>
+<sub>*Clickable links*</sub>
 
 <!-- [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Thegeekeuhhhhhhh) -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Thegeekeuhhhhhhh/) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Thegeekeuhhhhhhh) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31604898/thegeekeuhhhhhhh)
@@ -148,11 +156,11 @@ Written in Rust for EPITA S4. Parses HTML, renders pages, and crawls Internet to
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    8 hrs 24 mins         █████████████▓░░░░░░░░░░░   54.37 %
-Image (svg)   4 hrs 13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-C             1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-HTML          41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Markdown      27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+JavaScript    6 hrs 13 mins         █████████████████▒░░░░░░░   69.40 %
+Markdown      56 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+C             52 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Bash          51 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+gitignore     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
