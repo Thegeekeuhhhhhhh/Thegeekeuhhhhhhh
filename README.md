@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=B02060&center=true&vCenter=true&width=900&height=44&lines=I%20built%20my%20own%20music%20player%20just%20because%20Spotify%20had%20ads;I'm%20also%20a%20teaching%20assistant%20for%20other%20students%20of%20my%20school" alt="Typing headlines" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=B02060&center=true&vCenter=true&width=900&height=44&lines=I'm%20also%20a%20teaching%20assistant%20for%20other%20students%20of%20my%20school;I%20built%20my%20own%20music%20player%20just%20because%20Spotify%20had%20ads" alt="Typing headlines" />
 </p>
 
